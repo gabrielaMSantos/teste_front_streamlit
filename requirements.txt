@@ -1,0 +1,6 @@
+streamlit==1.52.2
+requests
+pandas
+yfinance
+matplotlib
+torch
